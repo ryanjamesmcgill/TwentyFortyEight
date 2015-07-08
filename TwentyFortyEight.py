@@ -4,7 +4,6 @@ Ryan McGill
 2015
 """
 import random
-#import poc_2048_gui
 
 # Directions, DO NOT MODIFY
 UP = 1
@@ -232,7 +231,3 @@ class TwentyFortyEight:
             for coordinate in coordinates:
                 self.set_tile(coordinate[0],coordinate[1],values[index])
                 index += 1
-
-
-
-#poc_2048_gui.run_gui(TwentyFortyEight(5, 2))
