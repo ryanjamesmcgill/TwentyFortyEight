@@ -1,5 +1,7 @@
 """
 Clone of 2048 game.
+Ryan McGill
+2015
 """
 import random
 #import poc_2048_gui
